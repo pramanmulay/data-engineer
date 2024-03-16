@@ -7,7 +7,7 @@
    [
      "spark-submit",
      "--deploy-mode", "cluster",
-     "s3://aws-analytics-course/temp/wordcount.py"
+     "s3://aws-analytics-incoming-pm/temp/wordcount.py"
    ]
  }
 ]
